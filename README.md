@@ -1,16 +1,51 @@
-## Hi there 👋
 
-<!--
-**shahzsib94-max/shahzsib94-max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Naveed Ijaz Hashmi 👋
 
-Here are some ideas to get you started:
+### SEO Executive | SEMrush Certified Professional
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a results-driven SEO Executive specializing in improving organic visibility, website performance, and search engine rankings.
+
+## 💼 Professional Experience
+
+- **SEO Executive** — Climber Digital Agency
+- **Assistant Officer** — Beacon Impex
+- **Junior SEO Executive** — Dzine Media
+
+## 🚀 SEO Expertise
+
+- Technical SEO & Website Audits
+- On-Page & Off-Page SEO
+- Keyword Research & Search Intent
+- Google Search Console
+- Link Building & Guest Posting
+- Local SEO & Google Business Profile
+- Core Web Vitals
+- Schema Markup & Indexing
+
+## 🛠️ Tools & Platforms
+
+- SEMrush
+- Ahrefs
+- Google Search Console
+- Google Keyword Planner
+- Ubersuggest
+- WordPress (Yoast & Rank Math)
+- Shopify
+- BigCommerce
+- Elementor
+- Canva
+
+## 🎓 Education
+
+- MCS in Computer Science — COMSATS University
+- ADP in Information Technology — Government College University Faisalabad
+
+## 📜 Certifications
+
+- SEMrush Academy Certificate
+- Microsoft Word Certificate
+
+## 📫 Contact
+
+- Email: shahzsib94@gmail.com
+- Location: Faisalabad, Pakistan
